@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **Don't sit there, EVOLVE**
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
-  <a href="https://www.linkedin.com/in/rohitkumar-03/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
+  <a href="https://www.linkedin.com/in/akash-kumar-prasad-781812190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
 alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
   
 </p>
