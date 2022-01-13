@@ -34,7 +34,7 @@
 
 
 - 🔭 I’m currently working on [something secret](https://github.com/KumarAkash22)
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 - 👨‍💻 All of my projects are available at [https://github.com/KumarAkash22](https://github.com/KumarAkash22)
 - 💬 Ask me about **Everything that is legal**
 - ⚡ Fun fact **Don't sit there, EVOLVE**
