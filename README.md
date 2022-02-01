@@ -20,13 +20,13 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My Name is Akash Kumar Prasad</h1>
-<h3> A Versatile Full Stack Web Developer.</h3>
+<h3 align="center"> A Versatile Full Stack Web Developer.</h3>
 <p>I am a creative FullStack Engineer and Self-Proclaimed genius. I have always been passionate about everything related to technology and IT, especially the web professions, which I made my career by always giving the best of myself as a Web Developer. I also love to code things from scratch, and enjoy bringing ideas to life in the browser, combining the acquisition of new knowledge with independent work on various projects. Aside code I love cooking and trivelling.</p>
-## ❤ Views and Followers
+
 <a href="https://github.com/KumarAkash22/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=KumarAkash22">
 </a>
-<a href="https://github.com/KumarAkash22?tab=followers"><img src="https://img.shields.io/github/followers/KumarAkash22?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/KumarAkash22?tab=followers"><img src="https://img.shields.io/github/followers/KumarAkash22?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=KumarAkash22&data=followers,repositories,stars,commits"></p>
 
