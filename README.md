@@ -42,8 +42,8 @@
 <p align="left">  
   <a href="https://www.linkedin.com/in/akash-kumar-prasad-781812190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
 alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/akash-kumar-prasad-781812190/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
-alt="https://www.linkedin.com/in/rohitkumar-03/" height="30" width="40" /></a>    
+  <a href="https://twitter.com/Akashku16402182" target="blank"><img align="center" src="https://user-images.twitterusercontent.com/40376163/139012656-8cf53a76-5132-4848-958e-d2ebe30630cc.png"
+alt="" height="30" width="40" /></a>    
   
 </p>
 ## 🚀 Languages and Tools:
