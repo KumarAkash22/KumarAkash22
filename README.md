@@ -23,12 +23,10 @@
 <h3 align="center"> A Versatile Full Stack Web Developer.</h3>
 <p>I am a creative FullStack Engineer and Self-Proclaimed genius. I have always been passionate about everything related to technology and IT, especially the web professions, which I made my career by always giving the best of myself as a Web Developer. I also love to code things from scratch, and enjoy bringing ideas to life in the browser, combining the acquisition of new knowledge with independent work on various projects. Aside code I love cooking and trivelling.</p>
 
-<a href="https://github.com/KumarAkash22/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=KumarAkash22">
-</a>
-<a href="https://github.com/KumarAkash22?tab=followers"><img src="https://img.shields.io/github/followers/KumarAkash22?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=KumarAkash22&data=followers,repositories,stars,commits"></p>
+
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KumarAkash22" alt="KumarAkash22" /></a> </p>
 
