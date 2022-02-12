@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on [something secret](https://github.com/KumarAkash22)
 - 🌱 I’m currently learning **MERN Stack**
-- 👨‍💻 All of my projects are available at [https://akash-kumar-prasad-portfolio.vercel.app/portfolios](https://akash-kumar-prasad-portfolio.vercel.app/portfolios)
+- 👨‍💻 All of my projects are available at [Portfolio](https://akash-kumar-prasad-portfolio.vercel.app/portfolios)
 - 💬 Ask me about **Everything that is legal**
 - ⚡ Fun fact **Don't sit there, EVOLVE**
 <h3 align="left">Connect with me:</h3>
